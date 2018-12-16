@@ -1,2 +1,5 @@
 V1, 15.12.2018: -Created CHANGELOG.txt
                 -Created main.py
+V2, 16.12.2018: -Created user_input.py
+                user_input.Py:
+                  -init function

@@ -1,5 +1,7 @@
+import user_input
+
 def main():
-    x = "test"
+    Print(user_input.init())
     return
 
 if __name__ == "__main__":
