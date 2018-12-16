@@ -1,0 +1,2 @@
+V1, 15.12.2018: -Created CHANGELOG.txt
+                -Created main.py
